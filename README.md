@@ -1,4 +1,4 @@
-# CryptoApp
+
 Privacy Policy
 Alex built the CVN app as a Free app. This SERVICE is provided by Alex at no cost and is intended for use as is.
 
